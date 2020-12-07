@@ -4,8 +4,8 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/golang/protobuf/ptypes"
 
-	accountproto "github.com/begmaroman/go-micro-boilerplate/proto/account-svc"
-	"github.com/begmaroman/go-micro-boilerplate/services/rest-api-svc/swaggergen/models"
+	accountproto "github.com/gahfaustino/go-micro-boilerplate/proto/account-svc"
+	"github.com/gahfaustino/go-micro-boilerplate/services/rest-api-svc/swaggergen/models"
 )
 
 // toUserModel converts the user proto model to the Swagger model.

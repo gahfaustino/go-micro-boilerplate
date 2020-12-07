@@ -5,7 +5,7 @@ import (
 
 	statuscode "google.golang.org/genproto/googleapis/rpc/code"
 
-	status "github.com/begmaroman/go-micro-boilerplate/proto/status"
+	status "github.com/gahfaustino/go-micro-boilerplate/proto/status"
 )
 
 // ErrAbortedCode is the integer corresponding to the

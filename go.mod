@@ -1,6 +1,8 @@
-module github.com/begmaroman/go-micro-boilerplate
+module github.com/gahfaustino/go-micro-boilerplate
 
 go 1.12
+
+replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
 
 replace github.com/golang/lint => github.com/golang/lint v0.0.0-20190227174305-8f45f776aaf1
 
